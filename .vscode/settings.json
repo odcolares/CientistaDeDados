@@ -1,0 +1,7 @@
+{
+    "csv-preview.skipComments": true,
+    "csv-preview.openStdin": true,
+    "rainbow_csv.rbql_with_headers_by_default": true,
+    "rainbow_csv.enable_context_menu_tail": true,
+    "rainbow_csv.csv_lint_detect_trailing_spaces": true
+}
